@@ -1,4 +1,4 @@
-# MATLAB FS12 – Research Plan
+﻿# MATLAB FS12 – Research Plan
 
 > * Group Name: DENG Hospital
 > * Group participants names: Andric Nemanja, Balestra Gioele, Betts Duncan, Fattorini Elisa
@@ -52,4 +52,4 @@ Our simulation is based on the social force model. This kind of modeling has alr
 
 ## Other
 
-none
+niente
